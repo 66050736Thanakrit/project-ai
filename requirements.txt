@@ -5,6 +5,3 @@ requests
 python-dotenv
 plotly
 google-genai
-scikit-learn
-statsmodels
-openpyxl
